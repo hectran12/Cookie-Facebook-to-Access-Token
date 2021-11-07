@@ -2,7 +2,7 @@
 
 /** CODE BY HEXV **/
 
-print "Your Cookie Facebokk: ";
+print "Your Cookie Facebook: ";
 $COOKIE = trim(fgets(STDIN));
 
 $RESULT = GETTOKEN($COOKIE);
